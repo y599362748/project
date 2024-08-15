@@ -1,4 +1,7 @@
-<script setup></script>
+<script setup>
+console.log(123);
+
+</script>
 
 <template>
   <div></div>
