@@ -1,10 +1,11 @@
-<script setup>
-console.log(123);
-
-</script>
+<script setup></script>
 
 <template>
-  <div></div>
+  <RouterView></RouterView>
 </template>
 
-<style scoped></style>
+<style>
+* {
+  margin: 0;
+}
+</style>
